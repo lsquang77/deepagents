@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.42](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.41...deepagents-cli==0.0.42) (2026-04-21)
+
+
+### Features
+
+* **cli:** `shift+enter` newline on kitty-capable terminals ([#2869](https://github.com/langchain-ai/deepagents/issues/2869)) ([34e6614](https://github.com/langchain-ai/deepagents/commit/34e6614a2c6e6a7e33f763ac5b527c13b324a690))
+
 ## [0.0.41](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.40...deepagents-cli==0.0.41) (2026-04-21)
 
 ### Features
